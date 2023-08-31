@@ -1,6 +1,6 @@
 ## My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=m2web)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m2web&theme=dark)](https://git.io/streak-stats)
 
 ## Languages and Tools
 
